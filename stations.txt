@@ -1,0 +1,4 @@
+Station1,State 1,100,50,Station Master 1
+Station2,State 2,200,30,Station Master 2
+Station3,State 3,100,50,Station Master 3
+Station4,State 4,200,30,Station Master 4

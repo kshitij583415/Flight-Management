@@ -1,0 +1,21 @@
+Please fill out the following details to complete your registration:
+
+1. Name: [Enter your full name]
+
+   - Please provide your full name as it appears on your identification documents.
+
+2. Email: [Enter your email address]
+
+   - Enter a valid email address that you regularly use for communication.
+
+3. Age: [Enter your age]
+
+   - Provide your age as a whole number.
+
+4. Additional Information: [Enter any additional information or requirements,
+    if applicable]
+   - Use this field to mention any specific details or requirements related to
+    your registration.
+
+Thank you for completing the registration form. Your information will be processed 
+accordingly.

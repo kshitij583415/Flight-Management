@@ -1,0 +1,7 @@
+1.Registration
+2.signup
+3.forgot password
+4.Fare deatils
+5.cancel ticket
+6.Usermannual
+7.contact staff

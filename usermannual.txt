@@ -1,0 +1,57 @@
+User Manual - Rail System
+-------------------------
+
+Welcome to the User Manual for our 
+Rail System. This document provides
+essential instructions for using the system effectively.
+Please read this manual carefully to ensure a smooth experience while accessing rail services.
+
+Table of Contents:
+1. Introduction
+   - About the Rail System
+   - System Requirements
+
+2. Registration and Signup
+   - Creating an Account
+   - Providing Personal Information
+   - Terms and Conditions
+
+3. Login
+   - Accessing Your Account
+   - Entering Credentials
+   - Account Security
+
+4. Forgot Password
+   - Password Recovery Process
+   - Secret Question and Answer
+   - Email Verification
+
+5. Booking Tickets
+   - Selecting Departure and Destination Stations
+   - Choosing Travel Dates and Class of Service
+   - Fare Calculation and Discounts
+
+6. Managing Bookings
+   - Viewing and Modifying Booked Tickets
+   - Cancelling Tickets
+   - Refund Policies and Procedures
+
+7. Account Settings
+   - Updating Personal Information
+   - Changing Password
+   - Managing Notifications
+
+8. Support and Contact Information
+   - Customer Support Channels
+   - Online Help Center and FAQs
+   - Contact Details
+
+Please refer to the respective sections for detailed instructions and guidelines
+on each topic.We recommend following the provided instructions to ensure a 
+seamless rail system experience.
+
+Note: This user manual serves as a general guide and may not cover 
+all specific features or scenarios. For any additional assistance or queries,
+ please contact our support team for personalized support.
+
+Thank you for choosing our Rail System. We wish you a pleasant and convenient journey!

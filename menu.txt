@@ -1,0 +1,14 @@
+********************************************
+*         Pure Vegetarian Food Menu         *
+********************************************
+* 1. Paneer Tikka                          *
+* 2. Veg Biryani                           *
+* 3. Aloo Gobi                             *
+* 4. Dal Makhani                           *
+* 5. Vegetable Pulao                       *
+* 6. Veg Korma                             *
+* 7. Veg Manchurian                        *
+* 8. Malai Kofta                           *
+* 9. Palak Paneer                          *
+* 10. Vegetable Fried Rice                 *
+********************************************

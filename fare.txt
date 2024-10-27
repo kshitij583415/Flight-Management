@@ -1,0 +1,33 @@
+Train Fare System
+
+Thank you for choosing our train services. Below you will find information about our fare system to help you plan your journey effectively:
+
+1. Fare Calculation:
+
+   - The fare for a train journey is determined based on the distance traveled and the class of service.
+   - The fare may vary depending on the type of train (e.g., express, local) and the specific route.
+
+2. Ticket Types:
+
+   - Regular Ticket: This is a standard ticket for a one-time journey from the departure station to the destination station.
+   - Return Ticket: This ticket allows for a return journey from the destination station back to the departure station within a specified time frame.
+   - Season Ticket: This ticket is suitable for regular commuters and offers unlimited travel between specific stations for a fixed period.
+
+3. Class of Service:
+
+   - First Class: Provides a premium travel experience with more spacious seating, additional amenities, and higher fares.
+   - Second Class: Offers comfortable seating and essential amenities at standard fares.
+
+4. Fare Discounts:
+
+   - Children: Discounted fares are available for children below a certain age. Please check the specific age criteria and applicable discounts.
+   - Senior Citizens: Special discounts are offered to senior citizens as per the government regulations. Valid identification may be required to avail of the discount.
+   - Students: Students may be eligible for discounted fares upon presenting a valid student ID card.
+
+5. Fare Payment:
+   - Fares can be paid in cash at the ticket counter or through various online payment options.
+   - It is advisable to book tickets in advance to secure your preferred class and avoid last-minute rush.
+
+Please note that fares are subject to change, and it is recommended to check the latest fare information on our website or contact our customer service before planning your journey.
+
+We wish you a pleasant and comfortable journey on our trains. Should you have any questions or require further assistance, please feel free to contact our customer service team at [Insert contact information].
