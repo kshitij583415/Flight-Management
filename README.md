@@ -31,9 +31,9 @@ This project was developed to **enhance the efficiency of flight bookings and ma
    ```sh
    git clone https://github.com/kshitij583415/FlightManagementSystem.git
    ```
-2. Compile the program:
+2. Compile the program.
   
-3. Run the program:
+3. Run the program.
   
 
 ## Future Enhancements
