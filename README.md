@@ -19,14 +19,6 @@ This project was developed to **enhance the efficiency of flight bookings and ma
 - **Flight Search & Booking:** Users can search for flights and book tickets.
 - **Seat Selection:** Choose preferred seats based on availability.
 - **Ticket Generation:** Generates a ticket upon successful booking.
-- **Cancellation System:** Allows users to cancel bookings with refund policies.
-
-### ✈️ Admin Features:
-
-- **Flight Management:** Add, update, and remove flight details.
-- **Seat Layout Handling:** Maintain and update seat arrangements.
-- **User Management:** Manage passenger details and bookings.
-- **Data Storage:** Store all details in structured files for easy retrieval.
 
 ## Tech Stack
 
@@ -40,13 +32,9 @@ This project was developed to **enhance the efficiency of flight bookings and ma
    git clone https://github.com/kshitij583415/FlightManagementSystem.git
    ```
 2. Compile the program:
-   ```sh
-   g++ flight_management.cpp -o flight_management
-   ```
+  
 3. Run the program:
-   ```sh
-   ./flight_management
-   ```
+  
 
 ## Future Enhancements
 
@@ -56,9 +44,8 @@ This project was developed to **enhance the efficiency of flight bookings and ma
 
 ## Contact
 
-For any inquiries or feedback, feel free to contact me at **kshitijsingh.dev@gmail.com**.
+For any inquiries or feedback, feel free to contact me at **skshitij225@gmail.com**.
 
 🚀 **Flight Management System - Simplifying Air Travel!**
 
-```
-```
+
